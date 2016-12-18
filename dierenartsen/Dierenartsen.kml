@@ -2,6 +2,13 @@
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
 		<name>Huisartsen</name>
+		<Style id="icon">
+    <IconStyle>
+        <Icon>
+          <href>blue-marker-black-border-hi.png</href>
+        </Icon>
+    </IconStyle>
+</Style>
 		<Placemark>
 			<name>Dr. Hans Taragola</name>
 			<description><![CDATA[HUISNR: 114<br>TYPE: Duo<br>STRAAT: Gontrode Heirweg<br>GEMEENTE: Melle<br>POSTCODE: 9090<br>TELEFOON: 09/252.23.84<br>GESLACHT: M]]></description>
